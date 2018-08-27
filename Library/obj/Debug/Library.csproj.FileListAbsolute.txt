@@ -1,0 +1,30 @@
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\bin\Debug\Library.exe.config
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\bin\Debug\Library.exe
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\bin\Debug\Library.pdb
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\obj\Debug\MainWindow.g.cs
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\obj\Debug\App.g.cs
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library_MarkupCompile.cache
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library_MarkupCompile.lref
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\obj\Debug\MainWindow.baml
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.g.resources
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.exe
+C:\Users\paths\Desktop\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.pdb
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\bin\Debug\Library.exe.config
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\bin\Debug\Library.exe
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\bin\Debug\Library.pdb
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\obj\Debug\MainWindow.g.cs
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\obj\Debug\App.g.cs
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library_MarkupCompile.cache
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library_MarkupCompile.lref
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\obj\Debug\MainWindow.baml
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.g.resources
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.exe
+C:\Users\paths\Desktop\4th semster\Cs1182\Project\Deliverable 7\Library\obj\Debug\Library.pdb
